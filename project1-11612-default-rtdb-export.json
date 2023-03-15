@@ -1,0 +1,26 @@
+{
+  "Phong_Bep": {
+    "Tu_lanh": "OFF"
+  },
+  "Phong_Khach": {
+    "CO2": 600,
+    "Den_Hien": "OFF",
+    "Den_Khach": "ON",
+    "Do_Am": 80,
+    "Lock": "ON",
+    "Maylanh": "ON",
+    "Maylanh_temp": "18",
+    "Quat": "OFF",
+    "Wifi": "ON",
+    "nhietdo": 30
+  },
+  "Phong_Ngu": {
+    "Den1": "OFF",
+    "Den2": "ON",
+    "Maylanh": "ON",
+    "Maylanh_temp": "21",
+    "Quat": "ON",
+    "TV": "ON",
+    "nhietdo": 80
+  }
+}
